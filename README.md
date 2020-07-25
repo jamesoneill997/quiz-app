@@ -2,6 +2,8 @@
 
 A new Flutter project. A basic quiz app compatible with both Android and IOS.
 
+The quiz will assess your personality!
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
